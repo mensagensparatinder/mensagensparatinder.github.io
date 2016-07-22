@@ -94,12 +94,12 @@ p {
   background: #fffaf2;
 }
 
-#quote-subject {
+.quote-subject {
   color: #000;
   font-size: 1.5em;
 }
 
-#button {
+.button {
   padding: 10px;
   cursor: pointer;
   color: #fff;
