@@ -15,7 +15,7 @@
 		"Por acaso você não é nenhuma tarada, né?",
 		"Você tem cara de quem beija mal",
 		"O que fez você fazer o swipe para direita? :)",
-		"Como vamos falar para nossas familias como nos conhecemos?",
+		"Qual história devo falar para familia de como nos conhecemos?",
 		"Você é muito bonit(x) para o tinder, o que está fazendo aqui?",
 		"Você está no lugar errado... o concurso para Miss Universo não é aqui.",
 		"Coca-cola ou Pepsi?",
@@ -41,7 +41,17 @@
 		"Me chama de previsão do tempo e diz que tá rolando um clima.",
 		"Você não é marte, mas já me perdi em você.",
 		"Como eu sei que você está pensando em mim, passei para dizer um oi. Então, Oi!",
-		"Você também é uma impostora que coloca a melhor foto no tinder ou é bonitinha assim mesmo?"
+		"Você também é uma impostora que coloca a melhor foto no tinder ou é bonitinha assim mesmo?",
+        "Star Wars ou Star Trek?",
+        "Existe Star Wars e Star Trek, mas eu só penso em Star com você.",
+        "Você não é o logo da Apple mas estou muito afim de te dar uma mordidinha!",
+        "Gata, você não é orientada a objetos mas é cheia de classe!",
+        "Quero muito assistir Game of Thrones com você",
+        "Finalmente encontrei alguém como você",
+        "Além de ser incrível, o que você faz da vida?",
+        "O que uma pessoa inteligente, atraente, jovem e interessante como eu está fazendo sem o seu numero?",
+        "Não sou gordo... Sou confortável.",
+        "Me joga no Google, me chama de pesquisa e diz que eu sou tudo aquilo que você procurava!"
 	]
 
 	function getSubject() {
