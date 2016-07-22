@@ -1,5 +1,6 @@
 (function(){
-	var randomSubjects = [
+	var button = document.getElementById('button'),
+	randomSubjects = [
 		"Eu definitivamente deixaria você me levar para jantar.",
 		"Eu disse para a minha Ex que ligaria para ela quando encontrasse alguem melhor. Acho que já posso fazer a ligação.",
 		"Por acaso você é WIFI? Porque estou sentindo uma conexão.",
@@ -56,9 +57,10 @@
 
 	function getSubject() {
 		var subject = randomSubjects[Math.floor(Math.random()* randomSubjects.length)];
-		$('.quote-subject').text(subject);
+		var el = document.getElementById('quote-subject');
+		el.innerHTML = subject;
 	}
 
-	$('.button').on('click', getSubject);
+	button.addEventListener('click', getSubject);
 
 })();
