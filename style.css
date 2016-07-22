@@ -117,6 +117,11 @@ p {
     font-size: 4em;
   }
   .quote-container {
-    width: 85%;
+    width: 85%; 
+  }
+
+  .quote-subject {
+    color: #000;
+    font-size: 1em;
   }
 }
