@@ -1,5 +1,6 @@
 (function(){
-	var button = document.querySelector('.button'),
+	var generateMessage = document.querySelector('.generate-message'),
+		el = document.querySelector('.quote-subject'),
 	randomSubjects = [
 		"Eu definitivamente deixaria você me levar para jantar.",
 		"Eu disse para a minha Ex que ligaria para ela quando encontrasse alguem melhor. Acho que já posso fazer a ligação.",
@@ -56,11 +57,10 @@
 	]
 
 	function getSubject() {
-		var subject = randomSubjects[Math.floor(Math.random() * randomSubjects.length)];
-		var el = document.querySelector('.quote-subject');
+		var subject = randomSubjects[Math.floor(Math.random() * randomSubjects.length)];	
 		el.textContent = subject;
 	}
 
-	button.addEventListener('click', getSubject);
+	generateMessage.addEventListener('click', getSubject);
 
 })();
