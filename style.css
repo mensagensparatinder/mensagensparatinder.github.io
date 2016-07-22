@@ -108,3 +108,15 @@ p {
   display: inline-block;
   background: #ff6a6a;
 }
+
+@media only screen and (max-width: 600px) {
+  .container {
+    width: 100%;
+  }
+  .logo {
+    font-size: 4em;
+  }
+  .quote-container {
+    width: 85%;
+  }
+}
