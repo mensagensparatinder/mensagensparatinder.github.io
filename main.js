@@ -53,7 +53,21 @@
   "Além de ser incrível, o que você faz da vida?",
   "O que uma pessoa inteligente, atraente, jovem e interessante como eu está fazendo sem o seu numero?",
   "Não sou gordo... Sou confortável.",
-  "Me joga no Google, me chama de pesquisa e diz que eu sou tudo aquilo que você procurava!"
+  "Me joga no Google, me chama de pesquisa e diz que eu sou tudo aquilo que você procurava!",
+  "Você assistiu o último episódio [da série xpto]?",
+  "Poderíamos pular esse papo chato e apenas nos encontrar para um drinque e nos conhecermos melhor por lá?",
+  "Corinthiana?! Você poderia me mandar uma foto sorrindo? hahaha",
+  "Oi! Ok, vamos pular para as coisas importantes. Qual é a sua música favorita dos Backstreet Boys [Spice Girls, Molejo, etc]?",
+  "Procurando alguém para me ajudar em um crime absurdo. Mas é imprescindivel que goste de cachorrinhos fofos. Você é essa pessoa?",
+  "Isso quer dizer que somos exclusivos? :)",
+  "Qual o sentido da vida?",
+  "Oi! Você me lembra a Julia Roberts em Uma Linda Mulher. Não porque você parece uma prostituta usando uma roupa esquisita, mas por causa do seu sorriso largo (e bonito).",
+  "As melhores coisas do mundo são: Abraçar e assistir Netflix. É mais ou menos como abraçar e assistir netflix, mas com você junto.",
+  "Em uma escala de (00) 00000-0000 a (99) 99999-9999, quais as chances de você me passar seu número? haha",
+  "Eu te pago um salgado.",
+  "Não quero te ofender, mas você faria uma doação de nude para caridade?",
+  "BIIIIIRL",
+  "Você tem 1 minuto para ouvir sobre a palavra do Senhor?"
   ]
 
   function getSubject() {
