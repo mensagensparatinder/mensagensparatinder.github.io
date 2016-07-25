@@ -67,7 +67,14 @@
   "Eu te pago um salgado.",
   "Não quero te ofender, mas você faria uma doação de nude para caridade?",
   "BIIIIIRL",
-  "Você tem 1 minuto para ouvir sobre a palavra do Senhor?"
+  "Você tem 1 minuto para ouvir sobre a palavra do Senhor?",
+  "Amor acho que você é comunista, pois mora do lado esquerdo do meu peito.",
+  "Gata, me chama de Pearl Harbor e me ataca de surpresa!",
+  "Meu bem, a gente junto só é errado na ortografia.",
+  "Queria ser iluminista, mas iluminista não posso ser, pois iluministas baseiam-se na razão, e a única razão da minha vida é você.",
+  "Queria ser grego, mas grego não posso ser, pois os gregos adreditam em vários deuses, e a minha única deusa é você!",
+  "Gata, estamos tipo na Guerra Fria. Os dois sabem o que querem, mas nenhum ataca.",
+  "Gata, tanto faz se você é de humanas ou exatas. Meu negócio com você é praticar as biológicas!"
   ]
 
   function getSubject() {
