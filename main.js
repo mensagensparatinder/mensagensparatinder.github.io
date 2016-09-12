@@ -80,8 +80,11 @@
   function getSubject() {
     var subject = randomSubjects[Math.floor(Math.random() * randomSubjects.length)];
     el.textContent = subject;
+    el.setAttribute('data-clipboard-text', subject);
   }
 
   generateMessage.addEventListener('click', getSubject);
+
+  var copy = new Clipboard('#copy');
 
 })();

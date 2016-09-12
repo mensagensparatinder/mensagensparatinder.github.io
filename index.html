@@ -12,13 +12,15 @@
     <h1 class="logo">Gerador de mensagens para Tinder</h1>
     <p>Melhor do que enviar "Oi, tudo bem?"</p>
     <div class="quote-container">
-      <p class="quote-subject"></p>
+      <p class="quote-subject" id="message" data-clipboard-text></p>
     </div>
 
-    <p class="generate-message">Gerar mensagem!</p>
+    <button class="button generate-message">Gerar mensagem!</button>
+    <button class="button button-orange" id="copy" data-clipboard-target="#message">Copiar</button>
 
         <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fmensagensparatinder.github.io%2F&layout=button&size=small&mobile_iframe=true&width=97&height=20&appId" width="97" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
   </div>
+  <script src="clipboard.min.js"></script>
   <script src="main.js"></script>
 </body>
 </html>
